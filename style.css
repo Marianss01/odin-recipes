@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    color: #996c39;
+    margin-bottom: 5%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+li {
+    width: 35%;
+    margin: 3% auto;
+    padding: 10px;
+    background-color: #996c39;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
