@@ -18,11 +18,11 @@ ul {
 }
 
 li {
-    width: 35%;
+    width: 25%;
     margin: 3% auto;
     padding: 10px;
     background-color: #996c39;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 a {
