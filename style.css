@@ -4,20 +4,21 @@
 
 body {
     background-color: blanchedalmond;
+    margin-left: 2%;
 }
 
-h1 {
+.mainpage-header {
     text-align: center;
     color: #996c39;
     margin-bottom: 5%;
 }
 
-ul {
+#recipes-list {
     list-style-type: none;
     text-align: center;
 }
 
-li {
+.main-list-items {
     width: 25%;
     margin: 3% auto;
     padding: 10px;
@@ -25,7 +26,22 @@ li {
     border-radius: 15px;
 }
 
-a {
+.mainpage-links {
     text-decoration: none;
     color: white;
+}
+
+.recipes-home-button {
+    text-decoration: underline;
+    color: #754604;
+}
+
+.recipes-headers {
+    color: #996c39;
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 5%;
+    border: 2px solid #754604;
 }
